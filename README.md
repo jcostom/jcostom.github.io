@@ -1,2 +1,0 @@
-# jcostom.github.io
-website
